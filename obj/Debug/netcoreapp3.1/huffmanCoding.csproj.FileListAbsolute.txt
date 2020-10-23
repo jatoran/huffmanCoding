@@ -1,0 +1,13 @@
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.exe
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.deps.json
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.runtimeconfig.json
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.runtimeconfig.dev.json
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.dll
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.pdb
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.csprojAssemblyReference.cache
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.AssemblyInfoInputs.cache
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.AssemblyInfo.cs
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.csproj.CoreCompileInputs.cache
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.dll
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.pdb
+G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.genruntimeconfig.cache
