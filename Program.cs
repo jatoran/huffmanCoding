@@ -158,7 +158,7 @@ namespace huffmanCoding {
 
     class Program {
         static void Main(string[] args) {
-            string defaultInput = "aabbbccccddddeeeeeffffffggggggggggggggggggggggggggggggggggggggggggg";
+            string defaultInput = "The Quick Brown Fox Jumps Over the Lazy Dog.";
             Dictionary<char, int> CharToCount = new Dictionary<char, int>();
             Dictionary<char, string> CharToHuffcode = new Dictionary<char, string>();
 
@@ -181,7 +181,6 @@ namespace huffmanCoding {
             string test = "Counts: ";
             foreach (TreeNode t in heap.elements) {
                 test += t.title + " " + t.priority + " | ";
-
             }
             Console.WriteLine(test);
             Console.WriteLine();
@@ -223,7 +222,7 @@ namespace huffmanCoding {
             }
 
             //PRINT SIZE COMPARISON
-            Console.WriteLine("Original size: " + defaultInput.Length * 8 + " bits");
+            Console.WriteLine("Original size: " + (Math.Ceiling(Math.Log2(defaultInput.Length)) * defaultInput.Length) + " bits");
             int encodedSize = 0;
             foreach(char c in defaultInput) {
                 if (CharToHuffcode.ContainsKey(c)) {
