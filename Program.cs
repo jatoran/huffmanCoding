@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace huffmanCoding {
-
     public enum NodePosition {
         left,
         right,
