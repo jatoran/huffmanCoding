@@ -11,3 +11,16 @@ G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanC
 G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.dll
 G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.pdb
 G:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.genruntimeconfig.cache
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.exe
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.deps.json
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.runtimeconfig.json
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.runtimeconfig.dev.json
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.dll
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\bin\Debug\netcoreapp3.1\huffmanCoding.pdb
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.csprojAssemblyReference.cache
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.AssemblyInfoInputs.cache
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.AssemblyInfo.cs
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.csproj.CoreCompileInputs.cache
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.dll
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.pdb
+F:\Google Drive\[[Projects\GitHub\huffmanCoding\obj\Debug\netcoreapp3.1\huffmanCoding.genruntimeconfig.cache

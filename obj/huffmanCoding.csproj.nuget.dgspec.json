@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\huffmanCoding.csproj": {}
+    "F:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\huffmanCoding.csproj": {}
   },
   "projects": {
-    "G:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\huffmanCoding.csproj": {
+    "F:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\huffmanCoding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\huffmanCoding.csproj",
+        "projectUniqueName": "F:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\huffmanCoding.csproj",
         "projectName": "huffmanCoding",
-        "projectPath": "G:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\huffmanCoding.csproj",
-        "packagesPath": "C:\\Users\\Heisenberg\\.nuget\\packages\\",
-        "outputPath": "G:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\obj\\",
+        "projectPath": "F:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\huffmanCoding.csproj",
+        "packagesPath": "C:\\Users\\Jatora\\.nuget\\packages\\",
+        "outputPath": "F:\\Google Drive\\[[Projects\\GitHub\\huffmanCoding\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Heisenberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Jatora\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,6 +32,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +44,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

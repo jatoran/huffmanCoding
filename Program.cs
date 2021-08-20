@@ -181,6 +181,7 @@ namespace huffmanCoding {
             foreach (TreeNode t in heap.elements) {
                 test += t.title + " " + t.priority + " | ";
             }
+            Console.WriteLine(defaultInput);
             Console.WriteLine(test);
             Console.WriteLine();
 
